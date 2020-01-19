@@ -10,7 +10,7 @@ To design a humanoid with human-like recognition especially with artificial inte
 A chassis is the base of the robot, consisting of the frame on which the body is mounted. For this humanoid, we use a Three Wheel Design.
 
 ## 3 WHEEL DESIGN
-<img src="https://user-images.githubusercontent.com/43472529/72684016-deabdd00-3b02-11ea-9087-110a56274744.png" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/43472529/72684016-deabdd00-3b02-11ea-9087-110a56274744.png" width="200" height="200" />
 A three wheel design offers greater traction as any reactive force is distributed through only three points and the robot is well balanced even on uneven terrain. This design also reduces an additional wheel compared to a 4 wheeled robot which makes it cost effective.  Our design is a Three Wheeled Omni Robot i.e. two wheels parallel to each other and one wheel perpendicular to the two wheels.
 
 ## METAL GEARBOX MOTORS
