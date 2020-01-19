@@ -10,9 +10,11 @@ To design a humanoid with human-like recognition especially with artificial inte
 A chassis is the base of the robot, consisting of the frame on which the body is mounted. For this humanoid, we use a Three Wheel Design.
 
 ## 3 WHEEL DESIGN
+![3wheeldesign](https://user-images.githubusercontent.com/43472529/72684016-deabdd00-3b02-11ea-9087-110a56274744.png)
 A three wheel design offers greater traction as any reactive force is distributed through only three points and the robot is well balanced even on uneven terrain. This design also reduces an additional wheel compared to a 4 wheeled robot which makes it cost effective.  Our design is a Three Wheeled Omni Robot i.e. two wheels parallel to each other and one wheel perpendicular to the two wheels.
 
 ## METAL GEARBOX MOTORS
+![metalgearbox](https://user-images.githubusercontent.com/43472529/72684032-174bb680-3b03-11ea-80ce-fa6958a2793e.jpg)
 Metal Gearbox Motor is suitable for bigger robots. It has sturdy construction with large gears. Gear box is built to handle the stall torque produced by the motor. Drive shaft is supported from both sides with metal bushes. Motor runs smoothly at 12V and gives 4 RPM at full load.
 
 ## Specifications:
@@ -35,6 +37,7 @@ Metal Gearbox Motor is suitable for bigger robots. It has sturdy construction wi
 
 
 ## SERVO MOTORS:
+![servomotors](https://user-images.githubusercontent.com/43472529/72684046-406c4700-3b03-11ea-82c7-e0c7afc5c1cc.jpg)
 A servomotor is a rotary actuator or linear actuator that allows for precise control of angular or linear position, velocity and acceleration. It consists of a suitable motor coupled to a sensor for position feedback.
 ## Specifications:
 - Modulation	Analog
@@ -53,6 +56,7 @@ A servomotor is a rotary actuator or linear actuator that allows for precise con
 ## UPPER BODY
 The upper body consists of the head, torso and limbs. The torso and the arms (excluding the wrist and further) are to be fabricated using aluminum. The head and palms are to be 3D printed.
 The arm consists of three Mega Torque motors with six degrees of freedom. A motor is placed at each of the joints - shoulder, elbow and wrist respectively.
+![head](https://user-images.githubusercontent.com/43472529/72684070-6abe0480-3b03-11ea-9982-319d62e8b41c.jpg/100/200) 
   
 
 ## RASPBERRY PI 3 MODEL B
